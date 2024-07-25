@@ -1,0 +1,1 @@
+<div class="alerts__list"></div>
